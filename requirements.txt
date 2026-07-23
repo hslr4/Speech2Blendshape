@@ -1,0 +1,7 @@
+transformers==4.57.0
+librosa==0.11.0
+torch
+soundfile
+# server
+uvicorn==0.37.0
+fastapi==0.119.0
