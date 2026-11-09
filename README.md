@@ -2,10 +2,8 @@
 
 Predict 51 AR Kit Blendshapes for speech input. (Tongue is missing in the BEAT dataset.)
 
-Code and additional material for the paper: *"More Than Meets the Ear: A Method and Benchmark for Speech-Driven Android Animation"*
+Code for speech-to-blendshape model as used in the paper: *"Multimodal Emotion Expression for Android Robot Heads*
 
-## Speech-in-noise intelligibility test stimuli
-are described [here](./intelligibility_study.md).
 
 ## Setup
 `pip install -r requirements.txt`
